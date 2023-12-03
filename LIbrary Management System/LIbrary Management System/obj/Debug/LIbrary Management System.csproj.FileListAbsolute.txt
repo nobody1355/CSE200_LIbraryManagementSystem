@@ -1,0 +1,90 @@
+E:\Study\4th Semester\CSE 200 ( SDP)\Project\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.exe.config
+E:\Study\4th Semester\CSE 200 ( SDP)\Project\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.exe
+E:\Study\4th Semester\CSE 200 ( SDP)\Project\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.pdb
+E:\Study\4th Semester\CSE 200 ( SDP)\Project\LIbrary Management System\LIbrary Management System\bin\Debug\Guna.UI2.dll
+E:\Study\4th Semester\CSE 200 ( SDP)\Project\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.AssemblyReference.cache
+E:\Study\4th Semester\CSE 200 ( SDP)\Project\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.SuggestedBindingRedirects.cache
+E:\Study\4th Semester\CSE 200 ( SDP)\Project\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.Login.resources
+E:\Study\4th Semester\CSE 200 ( SDP)\Project\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.Properties.Resources.resources
+E:\Study\4th Semester\CSE 200 ( SDP)\Project\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.GenerateResource.cache
+E:\Study\4th Semester\CSE 200 ( SDP)\Project\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.CoreCompileInputs.cache
+E:\Study\4th Semester\CSE 200 ( SDP)\Project\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.CopyComplete
+E:\Study\4th Semester\CSE 200 ( SDP)\Project\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.exe
+E:\Study\4th Semester\CSE 200 ( SDP)\Project\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.pdb
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.Login.resources
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.Properties.Resources.resources
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.exe
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.pdb
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.exe.config
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.exe
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.pdb
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\bin\Debug\Guna.UI2.dll
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.CopyComplete
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.dashboard.resources
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.AddBooks.resources
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.signUpfrm.resources
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.ViewBook.resources
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.Add_Students.resources
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.ViewStudent.resources
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.IssueBooks.resources
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.ReturnBook.resources
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.CompleteBookDetails.resources
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.exe.manifest
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.application
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.exe.manifest
+C:\Users\PC\Desktop\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.application
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.exe.config
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.exe.manifest
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.application
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.exe
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.pdb
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\bin\Debug\Guna.UI2.dll
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.Add_Students.resources
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.AddBooks.resources
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.CompleteBookDetails.resources
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.IssueBooks.resources
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.ReturnBook.resources
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.signUpfrm.resources
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.dashboard.resources
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.Login.resources
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.Properties.Resources.resources
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.ViewBook.resources
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.ViewStudent.resources
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.exe.manifest
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.application
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.CopyComplete
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.exe
+C:\Users\PC\Desktop\New folder\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.pdb
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.exe.config
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.exe.manifest
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.application
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.exe
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\bin\Debug\LIbrary Management System.pdb
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\bin\Debug\Guna.UI2.dll
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.AssemblyReference.cache
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.Add_Students.resources
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.AddBooks.resources
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.CompleteBookDetails.resources
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.IssueBooks.resources
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.ReturnBook.resources
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.signUpfrm.resources
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.dashboard.resources
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.Login.resources
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.Properties.Resources.resources
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.ViewBook.resources
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary_Management_System.ViewStudent.resources
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.GenerateResource.cache
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.CoreCompileInputs.cache
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.exe.manifest
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.application
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.csproj.CopyComplete
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.exe
+F:\BUBT\Fourth Semester\CSE200\LIbrary Management System Final\LIbrary Management System\LIbrary Management System\obj\Debug\LIbrary Management System.pdb
